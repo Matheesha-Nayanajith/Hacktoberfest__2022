@@ -1,5 +1,4 @@
 # Hacktoberfest__2022
-# Hacktoberfest__2022
 
 <hr>
 
